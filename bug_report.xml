@@ -1,0 +1,14 @@
+<bug_rep>
+  <Bug ID>#1</Bug ID>
+  <Environment>Windows 10 home 21H2, Google Chrome 101.0.4951.67(64)</Environment>
+  <Preconditions>Open link - https://losst.ru/</Preconditions>
+  <severity>Trivial</severity>
+  <priority>Low</priority>
+  <Title>The Button 'back to top of the page' shows pipeline as a text field after first clik</Title>
+  <STR>1)open any page.
+   2)skroll down.
+3)press button "back to top of the page"</STR>
+  <expected_result>button don`t change</expected_result>
+  <result>button shows pipeline as a text field</result>
+  <Attachments>screenshot, video, logs</Attachments>
+</bug_rep>
